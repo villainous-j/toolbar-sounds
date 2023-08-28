@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      { "text": "Toolbar sounds", "color": "#9A5CC6" },
+      { "text": "\nby villainous-j / v1.0 / 1.19.2","color":"#21497B" }
+    ]
+  }
+}

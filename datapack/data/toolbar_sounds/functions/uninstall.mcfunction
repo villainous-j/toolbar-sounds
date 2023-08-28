@@ -1,0 +1,4 @@
+schedule clear toolbar_sounds:tick
+schedule clear toolbar_sounds:schedule
+scoreboard objectives remove toolbarSounds.prevSlot
+scoreboard objectives remove toolbarSounds.currentSlot
