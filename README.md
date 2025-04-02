@@ -3,4 +3,4 @@
   Toolbar Sounds
 </h1>
 
-> A lightweight datapack for Minecraft 1.20 to 1.20.4
+> A lightweight datapack for Minecraft
