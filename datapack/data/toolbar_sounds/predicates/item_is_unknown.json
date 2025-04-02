@@ -1,29 +1,32 @@
 {
-  "condition": "minecraft:alternative",
-  "terms": [
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_blunt"
-    },
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_bow"
-    },
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_potion"
-    },
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_shield"
-    },
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_sword"
-    },
-    {
-      "condition": "minecraft:reference",
-      "name": "toolbar_sounds:item_is_tool"
-    }
-  ]
+  "condition": "minecraft:inverted",
+  "term": {
+    "condition": "minecraft:any_of",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_blunt"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_bow"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_potion"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_shield"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_sword"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "toolbar_sounds:item_is_tool"
+      }
+    ]
+  }
 }
