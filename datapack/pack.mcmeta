@@ -1,10 +1,9 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": { "min_inclusive": 15, "max_inclusive": 26 },
+    "pack_format": 41,
     "description": [
       { "text": "Toolbar sounds", "color": "#9A5CC6" },
-      { "text": "\nby villainous-j / v1.1 / 1.20-1.20.4", "color": "#21497B" }
+      { "text": "\nby villainous-j / v1.1 / 1.20.5-1.20.6", "color": "#21497B" }
     ]
   }
 }
