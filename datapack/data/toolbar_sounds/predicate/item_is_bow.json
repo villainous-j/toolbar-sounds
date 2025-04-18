@@ -4,7 +4,7 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "tag": "toolbar_sounds:bows"
+        "items": "#toolbar_sounds:bows"
       }
     }
   }
